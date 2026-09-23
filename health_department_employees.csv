@@ -1,0 +1,10 @@
+employee_id,name,department,designation,salary,phone
+EMP0001,Pradeep,Health and Family Welfare Department,CAS,80000.0,9765465456
+EMP0002,Harini,Secondary Health Department,Pediatrician,78000.0,9985655677
+EMP0003,Lakshmi,Health and Family Welfare Department,Head Nurse,72000.0,9645656757
+EMP0004,Uday Bhanu,Health and Family Welfare Department,Staff Nurse,65000.0,6752676786
+EMP0005,Prasad,Health and Family Welfare Department,Senior Analyist,60000.0,8676567676
+EMP0006,Uday,Health and Family Welfare Department,OT Assistant,50000.0,8796554677
+EMP0007,Ramya,Health and Family Welfare Department,UDC,60000.0,9564566765
+EMP0008,Sravan,Health and Family Welfare Department,General Physician,93500.0,8656765667
+EMP0009,Rama,Health and Family Welfare Department,Female Nursing Officer,45000.0,7565768766
